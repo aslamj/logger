@@ -30,6 +30,7 @@
 # Others
 Debug
 Release
+ipch
 *.sdf
 *.sln
 *.suo
